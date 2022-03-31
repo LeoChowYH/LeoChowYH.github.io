@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 31 Mar 2022 21:56:02 at https://leoyinheichow.wixsite.com/blog-and-notes +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://leoyinheichow.wixsite.com/blog-and-notes -O1 "C:\My Web Sites\blog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/decodeURIComponent(e (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/sitemap.xml (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/feed.xml (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/ (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/version/ (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/02b07b80.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/5b26625f.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/eb6d72f5.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/57dff8a2.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/rb_wixui.thunderbolt~bootstrap.1e1f34f1.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.89bdd4d4.chunk.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.eb6d72f5.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:09	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.57dff8a2.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/decodeURIComponent(e (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/robots.txt (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/feed.xml (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/version/ (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/5b26625f.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/eb6d72f5.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/57dff8a2.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/rb_wixui.thunderbolt~bootstrap.1e1f34f1.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/rb_wixui.thunderbolt~bootstrap-classic.89bdd4d4.chunk.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/rb_wixui.thunderbolt~bootstrap-classic.eb6d72f5.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+21:56:12	Error: 	"Not Found" (404) at link https://leoyinheichow.wixsite.com/blog-and-notes/rb_wixui.thunderbolt~bootstrap-responsive.57dff8a2.chunk.min.js (from https://leoyinheichow.wixsite.com/blog-and-notes/about)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 44 links scanned, 17 files written (1548611 bytes overall) [540087 bytes received at 54008 bytes/sec], 1591983 bytes transferred using HTTP compression in 39 files, ratio 29%, 6.2 requests per connection
+(26 errors, 0 warnings, 0 messages)
